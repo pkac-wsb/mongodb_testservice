@@ -20,7 +20,7 @@ doc = {
 }
 
 
-# MONGO_URI = os.getenv("MONGO_URI") or "mongodb+srv://@cluster0.ndtbedt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+ #MONGO_URI = os.getenv("MONGO_URI") or "mongodb+srv://@cluster0.ndtbedt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 # ----------------------
